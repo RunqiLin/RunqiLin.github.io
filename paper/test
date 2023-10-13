@@ -1,0 +1,14 @@
+<div>
+        <h2><hr><a name="conference"></a>Conference Papers (full review)</h2>
+        <ol>
+            <li><p>
+                T. Ishida, I. Yamane, N. Charoenphakdee, G. Niu, and M. Sugiyama.<br>
+                Is the performance of my deep network too good to be true? A direct approach to estimating the Bayes error in binary classification.<br>
+                In <i>Proceedings of <a href="http://iclr.cc/Conferences/2023/" target="_blank">11th International Conference on Learning Representations (ICLR 2023)</a></i>,
+                to appear.<br>
+                <font color="#008800">(This paper was selected for oral presentation;
+                orals : acceptance : submissions = ?? : 1579 : 4966)</font><br>
+                [ <a href="http://openreview.net/forum?id=FZdJQgy05rz" target="_blank">OpenReview</a> ]
+            </p></li>
+        </ol>
+</div>
